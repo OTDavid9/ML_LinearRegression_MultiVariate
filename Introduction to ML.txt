@@ -1,0 +1,18 @@
+Introduction to Machine Learning
+
+1. **Machine Learning (ML) as a set of techniques:**
+   - Machine Learning refers to a set of techniques that enables computers to learn from data and improve their performance on a task without being explicitly programmed. Traditional programming requires humans to provide explicit instructions, whereas in ML, the algorithm learns patterns and relationships from data.
+
+2. **Making computers better at tasks traditionally done by humans:**
+   - ML aims to empower computers to perform tasks that humans traditionally excel at, such as recognizing patterns, making predictions, and understanding natural language. For example, tasks like image recognition, language translation, and speech recognition are areas where ML has made significant advancements.
+
+3. **Machines learning things humans do:**
+   - ML algorithms are designed to mimic the way humans learn. They learn from experience (data) and improve their performance over time. This learning process involves adjusting the internal parameters of the algorithm to optimize its performance on a specific task.
+
+4. **Input-Hidden-Output analogy:**
+   - The analogy describes a simplified model of how the human brain processes information. The input represents the data that the system takes in (e.g., visual input), the hidden layer represents the internal processing (neurons in the brain lighting up and processing information), and the output is the result or conclusion drawn from this processing.
+
+5. **ML = Deep Learning + Mathematical Models:**
+   - Deep Learning is a subset of ML that involves neural networks with multiple layers (deep neural networks). These networks, inspired by the structure of the human brain, can automatically learn hierarchical representations of data. The mathematical models refer to the algorithms and mathematical techniques used in ML to make predictions or decisions.
+
+In summary, ML encompasses a range of techniques focused on enabling computers to learn from data and perform tasks that traditionally rely on human capabilities. Deep Learning, which involves neural networks with multiple layers, is a key component of ML, and the overall process is guided by mathematical models and algorithms.
