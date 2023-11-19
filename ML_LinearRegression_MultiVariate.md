@@ -1,7 +1,7 @@
 # LINEAR REGRESSION FOR MULTIPLE VARIABLES
 
 
-# Employee Attrition Prediction
+# House Price Prediction
 
 ## Importing Relevant Packages
 
